@@ -4,5 +4,10 @@ public class EjercicioPractica {
         System.out.println("Hola Mundo");
         System.out.println("Hola Pirata");
         System.out.println("Hola Mundo");
+
+        System.out.println("Hola Mundo");
+        System.out.println("Hola Mundo");
+        System.out.println("Hola Pirata");
+        System.out.println("Hola Mundo");
     }
 }
